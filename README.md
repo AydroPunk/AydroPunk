@@ -9,7 +9,7 @@
 <ul>
 
 <p>I'm <i>David Romero</i>, I'm 19 years old and I'm currently a student of Computer Engineering at the <a href="https://github.com/unamfi"> National Autonomous University of Mexico</a>. I'm a technology enthusiast and a fan of open source. I am always open to collaborate in innovative/disruptive projects and ideas. 
-Reading, information and programming are one of my many passions. I have 4 years of experience using Unix-Linux operating systems, primarily Debian or Fedora. I have been programming in languages like C/C++, Java, Python or Rust for 1 year of experience.
+Reading, information and programming are one of my many passions. I have 4 years of experience using Unix-Linux operating systems, primarily Debian or Fedora. I have been programming in languages like C/C++, Java, Python and Rust for 1 year of experience.
 </p>
 </ul>
 </div>
@@ -19,7 +19,7 @@ Reading, information and programming are one of my many passions. I have 4 years
 
 - ⌨️ Creating the website for my own stationery shop so I can manage it better.
 - 🍃 Learning Javascript and React (both of them are so cool!)
-- 📚 Reading: "Skagboys - Irvine Welsh"
+- 📚 Reading: "Meditations - Marcus Aurelius"
 - 🎮 Playing: Red Dead Redemption 2 and Cyberpunk 2077.
 - 📺 I love anime; I love Evangelion, Cowboy Bepop and Serial Experiments Lain.
 <div >
