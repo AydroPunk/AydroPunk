@@ -49,7 +49,7 @@ Reading, information and programming are one of my many passions. I have 4 years
 &nbsp;&nbsp;
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/tools/git.svg" height="50" width="50" alt="Git"></a>
 &nbsp;&nbsp;
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/5b77dc2ff3bf6084a69a041d3daa2da9af9ba5f9/src/tools/Github.svg" height="50" width="50" alt="Github"></a>
+<a href="https://github.com/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/tools/github.svg" height="50" width="50" alt="Github"></a>
 &nbsp;&nbsp;
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/5b77dc2ff3bf6084a69a041d3daa2da9af9ba5f9/src/tools/linux.svg" height="50" width="50" alt="Linux"></a>
 &nbsp;&nbsp;
