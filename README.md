@@ -111,7 +111,7 @@ Reading, information and programming are one of my many passions. I have 4 years
 <a target="_blank" href="https://discordapp.com/users/734235531528896563"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/a0028d88c679335fd269ff43d3f6aaed909dc20d/src/social/discord.svg" alt="AydroPunk#4687"></a>
 <A TARGET="_blank" href="https://steamcommunity.com/profiles/76561199030118052/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/a0028d88c679335fd269ff43d3f6aaed909dc20d/src/social/Steam.svg" alt="Steam"></a>
 <a target="_blank" href="https://tidal.com/browse/user/183266516"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/social/Tidal.svg" alt="AydroPunk"></a>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aydropunk&label=Profile%20views&color=blueviolet&style=flat" alt="aydropunk" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aydropunk&label=Profile%20views&color=blueviolet&style=flat" alt="aydropunk" /> </p>
 <p align="center">
 Take a look to my repositories down here 👇🏼
 </p>
