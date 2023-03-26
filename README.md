@@ -68,17 +68,21 @@ Reading, information and programming are one of my many passions. I have 4 years
 
 ### - Workspace 🖥️
 <p align="center">
+<a href="https://getfedora.org/es/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/Workspace/Fedora.svg" alt="fedora">
 <a href="https://rog.asus.com/mx/laptops/rog-strix/rog-strix-g-g731-series/spec/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/Workspace/laptop.svg" alt="laptop">
 </a>
-<a href="https://getfedora.org/es/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/Workspace/Fedora.svg" alt="fedora">
 </a>
-<a href="https://www.nvidia.com/es-la/geforce/gaming-laptops/gtx-1660-ti/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/Workspace/nvidia.svg" alt="nvidia">
+<a href="https://www.nvidia.com/es-la/geforce/gaming-laptops/gtx-1660-ti/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/Workspace/Nvidia_1660ti.svg" alt="nvidia">
+</a>
+<a href="https://www.intel.la/content/www/xl/es/products/sku/191045/intel-core-i79750h-processor-12m-cache-up-to-4-50-ghz/specifications.html"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/Workspace/Intel.svg" alt="intel">
+</a>
+<a href="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/Workspace/RAM.svg"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/Workspace/RAM.svg" alt="ram">
 </a>
 <a href="https://www.jetbrains.com/idea"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/Workspace/Itellijidea.svg" alt="itellijidea">
 </a>
 <a href="https://www.jetbrains.com/clion/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/Workspace/clion.svg" alt="clion">
 </a>
-<a href="https://www.jetbrains.com/es-es/pycharm"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/Workspace/Pycharm.svg" alt="Pycharm">
+<a href="https://www.jetbrains.com/es-es/pycharm"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/Workspace/Pycharm.svg" alt="Pycharm">
 </a>
 <a href="https://www.jetbrains.com/es-es/webstorm/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/Workspace/WebStorm.svg" alt="Webstorm">
 </a>
