@@ -21,7 +21,6 @@ Reading, information and programming are one of my many passions. I have 4 years
 - 🍃 Learning Javascript and React (both of them are so cool!)
 - 📚 Reading: "Meditations - Marcus Aurelius"
 - 🎮 Playing: Red Dead Redemption 2 and Cyberpunk 2077.
-- 📺 I love anime; I love Evangelion, Cowboy Bepop and Serial Experiments Lain.
 <div >
 
 ---
@@ -110,7 +109,7 @@ Reading, information and programming are one of my many passions. I have 4 years
 ### - Find me around the web 🌎
 <p align="center">
 <a href="mailto:aydropunk@tutamail.com"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/social/Tutanota.svg" alt="tutanota"></a>
-<a href="https://www.linkedin.com/in/david-romero-a67693245/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/social/linkedin.svg" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/aydropunk/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/social/linkedin.svg" alt="linkedin"/></a>
 <a target="_blank" href="https://t.me/AydroPunk"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/social/telegram.svg" alt="AydroPunk"/></a>
 <a target="_blank" href="https://discordapp.com/users/734235531528896563"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/a0028d88c679335fd269ff43d3f6aaed909dc20d/src/social/discord.svg" alt="AydroPunk#4687"></a>
 <A TARGET="_blank" href="https://steamcommunity.com/profiles/76561199030118052/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/a0028d88c679335fd269ff43d3f6aaed909dc20d/src/social/Steam.svg" alt="Steam"></a>
