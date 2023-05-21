@@ -1,5 +1,5 @@
 <h3 align="center">Hey there, I'm David Romero</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30" /> </h3>
-<img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/social/blade-runner.gif" imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="center" height= "430" width="775">
+<img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/social/blade-runner.gif" imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="center" height= "300" width="500">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2950&pause=850&color=AF09FF&center=true&vCenter=true&width=800&height=75&lines=Loves+Open+Source+%E2%9D%A4%EF%B8%8F;Competitive+code+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let's+all+love+Lain+%E2%9D%A3%EF%B8%8F;I+am+just+a+novice+and+a+student+%F0%9F%99%83" alt="Typing SVG" /></a>
 
 <h3><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/social/Computer.webp" alt="computer" width="58"> About me </h4>
