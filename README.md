@@ -1,5 +1,7 @@
 </h3>
-<img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/social/blade-runner.gif" imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox="false" align="center" height= "403" width="800">
+<div align="center">
+<img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/social/blade-runner.gif" alt="Imagen de muestra" style="max-width: 100%; height: auto;">
+</div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2950&pause=850&color=AF09FF&center=true&vCenter=true&width=800&height=75&lines=Loves+Open+Source+%E2%9D%A4%EF%B8%8F;Competitive+code+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let's+all+love+Lain+%E2%9D%A3%EF%B8%8F;I+am+just+a+novice+and+a+student+%F0%9F%99%83" alt="Typing SVG" /></a>
 
 <h3><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/social/Computer.webp" alt="computer" width="58"> About me </h4>
