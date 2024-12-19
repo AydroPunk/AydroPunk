@@ -89,7 +89,7 @@
 
 ### - Find me around the web 🌎
 <p align="center">
-<a href="https://www.linkedin.com/in/aydroopunk//"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/social/linkedin.svg" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/aydroopunk/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/social/linkedin.svg" alt="linkedin"/></a>
 <a target="_blank" href="https://steamcommunity.com/profiles/76561199030118052/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/a0028d88c679335fd269ff43d3f6aaed909dc20d/src/social/Steam.svg" alt="Steam"></a>
 <a target="_blank" href="https://tidal.com/browse/user/183266516"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/social/Tidal.svg" alt="AydroPunk"></a>
 <p align="center">
