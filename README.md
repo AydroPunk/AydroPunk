@@ -1,14 +1,19 @@
-</h3>
 <div align="center">
-<img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/social/blade-runner.gif" alt="Imagen de muestra" style="max-width: 100%; height: auto;">
+  <img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/social/blade-runner.gif" 
+       alt="Imagen de muestra" 
+       style="max-width: 100%; height: auto;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2950&pause=850&color=AF09FF&center=true&vCenter=true&width=800&height=75&lines=Loves+Open+Source+%E2%9D%A4%EF%B8%8F;Competitive+code+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let's+all+love+Lain+%E2%9D%A3%EF%B8%8F;I+am+just+a+novice+and+a+student+%F0%9F%99%83" 
+         alt="Typing SVG" 
+         style="max-width: 100%; height: auto;">
+  </a>
+
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2950&pause=850&color=AF09FF&center=true&vCenter=true&width=800&height=75&lines=Loves+Open+Source+%E2%9D%A4%EF%B8%8F;Competitive+code+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let's+all+love+Lain+%E2%9D%A3%EF%B8%8F;I+am+just+a+novice+and+a+student+%F0%9F%99%83" alt="Typing SVG" /></a>
 
 ---
 
-### - Programming Languages and Tools: 🔗
+### - Programming Languages and Tools: 🛠️
 <p align="center">
-
 <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/main/src/tools/bash.svg" height="50" width="50" alt="Bash"></a>
 &nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/5b77dc2ff3bf6084a69a041d3daa2da9af9ba5f9/src/tools/C.svg" height="50" width="50" alt="C"></a>
@@ -43,7 +48,6 @@
 &nbsp;&nbsp;
 </p>
 </div>
-
 <div >
 
 ### - Workspace 🖥️
@@ -87,7 +91,7 @@
 </table>
 <br>
 
-### - Find me around the web 🌎
+## - Find me around the web 🌎
 <p align="center">
 <a href="https://www.linkedin.com/in/aydroopunk/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/social/linkedin.svg" alt="linkedin"/></a>
 <a target="_blank" href="https://steamcommunity.com/profiles/76561199030118052/"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/a0028d88c679335fd269ff43d3f6aaed909dc20d/src/social/Steam.svg" alt="Steam"></a>
